@@ -1,0 +1,13 @@
+{
+  "plugins": [[
+    "babel-plugin-styled-components",
+    {
+      "namespace": "me",
+      "displayName": false,
+      "fileName": false,
+      "ssr": false,
+      "minify" : true ,
+      "transpileTemplateLiterals" : true
+    }
+  ]]
+}
